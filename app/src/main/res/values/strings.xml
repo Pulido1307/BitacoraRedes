@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BitacoraRedes</string>
+    <string name="sin_registros_para_mostrar">Sin registros para mostrar</string>
+    <string name="direcci_n_mac_origen">Dirección MAC origen</string>
+    <string name="registrar">Registrar</string>
+    <string name="salir">Salir</string>
+    <string name="hora_del_hecho">Hora del hecho</string>
+    <string name="ip_de_origen">IP de origen</string>
+    <string name="observaciones">Observaciones</string>
+    <string name="direcci_n_mac_destino">Dirección MAC destino</string>
+    <string name="ip_de_destino">IP de destino</string>
+    <string name="puerto_de_destino">Puerto de destino</string>
+    <string name="puerto_de_origen">Puerto de origen</string>
+    <string name="modificar">Modificar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="seleccione_el_d_a_del_que_se_desea_hacer_la_el_reporte">Seleccione el día del que se desea hacer la el reporte</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="fecha">Fecha</string>
+    <string name="generar">Generar</string>
+
+</resources>
