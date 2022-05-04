@@ -507,6 +507,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+
         materialButton_cancelar_pdf.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
